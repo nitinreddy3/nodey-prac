@@ -1,0 +1,11 @@
+{
+  "name": "nodey-prac",
+  "version": "1.0.0",
+  "description": "Examples of nodejs coding practices for noobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
